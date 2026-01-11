@@ -78,7 +78,6 @@ function Hero() {
                         </Button>
                         
                          <Button asChild size="lg" variant="outline" className="gap-2"> 
-
                             <a href="/events">
                                 <CalendarDays className="w-5 h-5" />
                                 Explore Events
